@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinSamples</string>
+
+    <string-array name="tabs">
+        <item>表情包</item>
+        <item>妹纸</item>
+    </string-array>
+
+</resources>
