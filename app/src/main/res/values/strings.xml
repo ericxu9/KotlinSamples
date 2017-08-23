@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">KotlinSamples</string>
+    <string name="load_data_error">数据加载失败</string>
+    <string name="no_found_data">没有找到数据</string>
+    <string name="menu_save">保存</string>
 
     <string-array name="tabs">
         <item>表情包</item>
